@@ -1,6 +1,6 @@
 from django.http import HttpResponse
-from parser.parser import parse
 from django.contrib import messages
+from .parser import parse
 # Create your views here.
 
 
