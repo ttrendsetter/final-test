@@ -1,4 +1,4 @@
-from parser.models import Towns, Weather
+from .models import Towns, Weather
 import requests
 import json
 def parse():
